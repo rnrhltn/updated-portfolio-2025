@@ -351,7 +351,7 @@ export default function Portfolio() {
               },
               {
                 image:
-                  "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&h=300&fit=crop&q=80",
+                  "https://rainier-portfolio.duckdns.org/",
                 title:
                   "Infrastructure as Code: Multi-Tier AWS Environment | Terraform",
                 description:
